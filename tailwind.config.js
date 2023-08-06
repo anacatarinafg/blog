@@ -10,7 +10,7 @@ module.exports = {
     colors: {
       warmMidGray: '#20A4F3',
       bgLightColor: '#FFFAF0',
-      bgDarkColor: '#181D27',
+      bgDarkColor: '#1e293b',
     }
   },
   plugins: [
